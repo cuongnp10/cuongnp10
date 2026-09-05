@@ -12,4 +12,4 @@ Hi ! I'm fresher come from Viet Nam with a lot of energy
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongnguyenphu2005&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=cuongnguyenphu2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=cuongnp10&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
